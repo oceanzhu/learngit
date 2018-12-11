@@ -1,3 +1,5 @@
 hello test
+12345
 how are you
 fine,thank you
+new line,ok
